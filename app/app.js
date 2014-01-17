@@ -10,7 +10,3 @@
 var personApp = angular.module('personApp',[
     'ngRoute'
 ]);
-
-personApp.config(['$routeProvider',
-    function($routeProvider) {
-    }]);
